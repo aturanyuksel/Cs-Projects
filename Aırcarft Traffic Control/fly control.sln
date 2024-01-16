@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fly control", "fly control\fly control.csproj", "{8EC54F94-F034-4A1E-9C95-FDA4F5338210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EC54F94-F034-4A1E-9C95-FDA4F5338210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC54F94-F034-4A1E-9C95-FDA4F5338210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC54F94-F034-4A1E-9C95-FDA4F5338210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC54F94-F034-4A1E-9C95-FDA4F5338210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6412031-B09A-4FD5-A9F8-A7DCF85A79C2}
+	EndGlobalSection
+EndGlobal

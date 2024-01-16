@@ -1,0 +1,60 @@
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\obj\Debug\fly control.csproj.AssemblyReference.cache
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\obj\Debug\fly control.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\obj\Debug\fly_control.Form1.resources
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\obj\Debug\fly_control.Properties.Resources.resources
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\obj\Debug\fly control.csproj.GenerateResource.cache
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\obj\Debug\fly control.csproj.CoreCompileInputs.cache
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\bin\Debug\fly control.exe.config
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\bin\Debug\fly control.exe
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\bin\Debug\fly control.pdb
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\obj\Debug\fly control.exe
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\obj\Debug\fly control.pdb
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\bin\Debug\Guna.UI2.dll
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\obj\Debug\fly control.csproj.CopyComplete
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sanlu\Desktop\C# Fly Trafic Control\fly control\fly control\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root\Desktop\fly control\fly control\fly control\obj\Debug\fly control.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\fly control\fly control\fly control\obj\Debug\fly control.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\Desktop\fly control\fly control\fly control\obj\Debug\fly_control.Form1.resources
+C:\Users\root\Desktop\fly control\fly control\fly control\obj\Debug\fly_control.Properties.Resources.resources
+C:\Users\root\Desktop\fly control\fly control\fly control\obj\Debug\fly control.csproj.GenerateResource.cache
+C:\Users\root\Desktop\fly control\fly control\fly control\obj\Debug\fly control.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\fly control\fly control\fly control\obj\Debug\fly control.exe
+C:\Users\root\Desktop\fly control\fly control\fly control\obj\Debug\fly control.pdb
+C:\Users\root\Desktop\fly control\fly control\fly control\bin\Debug\fly control.exe.config
+C:\Users\root\Desktop\fly control\fly control\fly control\bin\Debug\fly control.exe
+C:\Users\root\Desktop\fly control\fly control\fly control\bin\Debug\fly control.pdb
+C:\Users\root\Desktop\fly control\fly control\fly control\bin\Debug\Guna.UI2.dll
+C:\Users\root\Desktop\fly control\fly control\fly control\bin\Debug\Newtonsoft.Json.dll
+C:\Users\root\Desktop\fly control\fly control\fly control\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root\Desktop\fly control\fly control\fly control\obj\Debug\fly control.csproj.CopyComplete
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\obj\Debug\fly control.csproj.AssemblyReference.cache
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\obj\Debug\fly control.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\obj\Debug\fly_control.Form1.resources
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\obj\Debug\fly_control.Properties.Resources.resources
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\obj\Debug\fly control.csproj.GenerateResource.cache
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\obj\Debug\fly control.csproj.CoreCompileInputs.cache
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\obj\Debug\fly control.exe
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\obj\Debug\fly control.pdb
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\bin\Debug\fly control.exe.config
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\bin\Debug\fly control.exe
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\bin\Debug\fly control.pdb
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\bin\Debug\Guna.UI2.dll
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl\fly control\fly control\obj\Debug\fly control.csproj.CopyComplete
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\bin\Debug\fly control.exe.config
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\bin\Debug\fly control.exe
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\bin\Debug\fly control.pdb
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\bin\Debug\Guna.UI2.dll
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\obj\Debug\fly control.csproj.AssemblyReference.cache
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\obj\Debug\fly control.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\obj\Debug\fly_control.Form1.resources
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\obj\Debug\fly_control.Properties.Resources.resources
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\obj\Debug\fly control.csproj.GenerateResource.cache
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\obj\Debug\fly control.csproj.CoreCompileInputs.cache
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\obj\Debug\fly control.csproj.CopyComplete
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\obj\Debug\fly control.exe
+C:\Users\sanlu\Desktop\Aircraft Traffic controlasıl - Kopya\Aırcarft Traffic Control\fly control\obj\Debug\fly control.pdb
